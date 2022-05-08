@@ -16,8 +16,4 @@
     "pino": "^7.11.0",
     "restify": "^8.6.1"
   },
-  "files": [
-    "package.json",
-    "index.js"
-  ]
 }
