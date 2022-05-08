@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "openshift": "nodeshift --expose --dockerImage=registry.access.redhat.com/rhscl/ubi8/nodejs-10"
   },
   "author": "",
   "license": "ISC",
@@ -16,9 +15,6 @@
     "nodemon": "^2.0.16",
     "pino": "^7.11.0",
     "restify": "^8.6.1"
-  },
-  "devDependencies": {
-    "nodeshift": "^8.6.1"
   },
   "files": [
     "package.json",
