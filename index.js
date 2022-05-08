@@ -5,7 +5,7 @@ const pino = require('pino')({
   name: 'hello'
 })
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://mongodb-26-centos7/";
+var url = "mongodb://node-js-demo-node-js-demo2.192.168.42.134.nip.io/";
 
 // MongoClient.connect(url, function(err, db) {
 //   if (err) throw err;
